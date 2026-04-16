@@ -1,7 +1,5 @@
 # SAE 1.04 - Création d'une Base de Données (Qualité des Eaux de Baignade)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white)
 
 ## 📝 Description du Projet
 Ce projet a été réalisé dans le cadre de la **SAE 1.04 du BUT Informatique (1ère année)**. L'objectif était de concevoir, modéliser et implémenter une base de données relationnelle complète à partir de jeux de données bruts (Open Data) concernant la qualité des eaux de baignade en France.
